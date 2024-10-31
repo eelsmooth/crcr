@@ -1,0 +1,422 @@
+-$DIESE GESCHICHTE IST EINE WARNUNG$sfx_creepy_swell$
+-$DU KÖNNTEST ALS NÄCHSTES DRAN SEIN$sfx_creepy_swell2$
+Amy$Manchmal frage ich mich, warum der Supermarkt so lange offen hat. $-$
+Amy$Die letzten Abende waren kaum Kunden da.$-$
+Amy$Wie auch immer. Hauptsache, ich werde bezahlt.$-$
+Amy$Sieht so aus, als hätte es gerade angefangen zu regnen, als ich heim gekommen bin. Ich schätze, ich hatte Glück.$scn_laptop$
+Amy$Jetzt kann ich das Fenster aber nicht öffnen und frische Luft reinlassen, ohne dass mein Laptop nass wird.$-$
+Amy$Puh... Also gut, wie soll ich heute Abend die Zeit totschlagen?$-$
+Amy$Der große Nachteil daran, dass ich wach bin, wenn alle anderen schlafen, ist, dass ich niemanden habe, mit dem ich mich unterhalten kann, wenn ich nach Hause komme.$-$
+Amy$Manchmal spiele ich irgendwelche Spiele, die ich im Internet gefunden habe, oder schaue mir einen Film an. Unproduktives Zeug.$-$
+Amy$Was wahrscheinlich eine schlechte Angewohnheit ist, wenn man bedenkt, dass ich immer noch nicht herausgefunden habe, in welche Richtung mein Leben gehen soll.$-$
+Amy$Ich mach erst mal ein bisschen Musik an.$mus_chill$
+Amy$Das ist der perfekte Soundtrack für eine kühle, regnerische Nacht.$-$
+Amy$Hm? Eine E-Mail?$sfx_email_get$
+Amy$Ich bekomme so gut wie nie E-Mails. Der Filialleiter kontaktiert mich normalerweise per SMS und meine Freunde per FullChat.$-$
+Amy$Huh, das ist eine E-Mail von Blaise Marktree. Den Namen habe ich schon ewig nicht mehr gehört.$-$
+Amy$Blaise ist ein alter Klassenkamerad von mir. Er war der Schlauste in unserer Klasse, nein, wahrscheinlich in der ganzen Schule.$-$
+Amy$Er hielt andere normalerweise auf Distanz. Deshalb weiß ich auch kaum etwas über ihn.$-$
+Amy$Warum schickt er mir eine E-Mail?$-$
+mail$"Liebe Amy Waterfield,\\nMein Name ist Blaise Marktree. Du erinnerst dich vielleicht noch aus unserer gemeinsamen Schulzeit an mich. Vor Kurzem haben einige ehemalige Klassenkameraden und ich zusammen beschlossen, dass es eine gute Idee wäre, uns gemeinsam zu vernetzen. Das könnte eine gute Gelegenheit sein, Kontakte wiederherzustellen und mehr über die Lebenswege zu erfahren, die jeder von uns eingeschlagen hat. Im Idealfall könnte dies in Zukunft zu einem Treffen in persona führen. Ich habe unten eine Einladung zu einem Gruppenchat verlinkt, den wir erstellt und zu dem wir alle Klassenkameraden eingeladen haben. Beachte, dass du eine kostenlose Chatsoftware namens "FullChat" installieren musst, um teilnehmen zu können. Zögere nicht, mir mitzuteilen, wenn du irgendwelche Fragen oder Bedenken hast.\\nMit freundlichen Grüßen\\nBlaise Marktree$scn_mail$
+Amy$Diese Mail war seltsam förmlich für eine Einladung zu einem Gruppenchat.$-$
+Amy$Die Art, wie Blaise sie formuliert hatte, ließ sie eher wie eine Geschäftsmail erscheinen.$-$
+Amy$Wie auch immer, es klang nach einer tollen Idee.$-$
+Amy$Die einzige Person, mit der ich seit meinem Schulabschluss in Kontakt geblieben war, war meine beste Freundin Liv.$-$
+Amy$Allgemeinen mochte ich meine Zeit in der Schule und die meisten Leute in meiner Klasse waren ganz cool.$-$
+Amy$Ich würde gerne wissen, was sie alle gerade machen. Vielleicht könnten sie mir ein paar Ideen für meine eigene Zukunft geben.$-$
+Amy$Okay, das wäre geklärt. Zeit, dem Gruppenchat beizutreten.$-$
+Amy$Nicht, dass um diese Zeit noch jemand online wäre.$-$
+Amy$Hm... Sieht so aus, als ob außer mir noch drei andere Leute dem Chat beigetreten sind:$scn_chat$
+Amy$Blaise, jemand namens "Gigi <3" und jemand namens "Maik".$-$
+Amy$Oh, Blaise schreibt gerade etwas. Scheint so, als wäre er doch noch wach.$-$
+Blaise$Hallo Amy. Es ist schön, dich hier zu sehen. Du bist eine der ersten, die diesem Gruppen-Chat beigetreten ist, abgesehen von uns dreien, die die Idee für dieses "Klassentreffen-Projekt" hatten. Der Zweck dieses Gruppenchats ist es, sich mit unseren ehemaligen Klassenkameraden auszutauschen und Verbindungen neu zu knüpfen. Lass es uns wissen, falls du irgendwelche Fragen oder Bedenken hast.$-$
+Angie$Du bist der einzige, den ich kenne, der so lange absätze im fullchat schreibt.$-$
+Angie$Und waren all diese infos nicht schon in deiner email? (>.<)$-$
+Blaise$Es schadet nie, sicherzustellen, dass alle die gleiche Informationsgrundlage haben. Außerdem würde ich empfehlen, es E-Mail zu schreiben. Denn es ist eine Zusammensetzung aus den Wörtern "electronic" und "mail".$-$
+Angie$Wie auch immer, es ist schön, dich wiederzusehen, Amy! <3$-$
+AmyInput$Gleichfalls!$-$
+AmyInput$Ich muss zugeben, dass ich mir nicht ganz sicher bin, welcher Name zu wem gehört.$-$
+Blaise$Ich habe euch doch gesagt, dass es viel einfacher ist, wenn ihr euren vollen Namen als Chat-Namen verwendet. Oder zumindest euren Vornamen, so wie Amy.$-$
+Angie$Aber Gigi klingt viel süßer (o･ω･o)$-$
+Angie$Also, ich bin Angie! (((o(*°▽°*)o)))$-$
+Angie$Wir sind einmal zusammen rumgehangen, falls du dich noch erinnerst!$-$
+Amy$Jetzt wo sie es erwähnt, haben wir uns tatsächlich einmal getroffen. Wir standen uns aber nicht besonders nahe.$-$
+Amy$Angie war jemand, die sich mit jedem in unserer Klasse verstand und immer von einem Haufen anderer Mädchen umgeben war.$-$
+Amy$Als wir mal zusammen shoppen gegangen sind, war es genauso. Sie hatte mich eingeladen und ich war mir nicht sicher, wie ich ablehnen sollte.$-$
+Amy$Erst dachte ich, wir würden nur mit ein paar Leuten hingehen, aber am Ende waren wir eine Gruppe von fünfzehn Leuten.$-$
+Amy$Mit so vielen Leuten auf einmal rumzuhängen, war ein bisschen viel.$-$
+Amy$Ich hatte allerdings nichts gegen Angie. Ich glaube, es würde mir wirklich Spaß machen, mich mit ihr unter vier Augen zu treffen.$-$ 
+Blaise$Und du kennst "Maik" möglicherweise als Mike. Kümmere dich nicht um seine häufigen typografischen Fehler. Du wirst dich daran gewöhnen müssen.$-$
+Mike$hallo...$-$
+Angie$ Er ist ein bisschen schüchtern, aber er wird sich dir im nu öffnen! ( ˙ω˙ )$-$
+AmyInput$Hallo Mike! Wir hatten während unserer Schulzeit nicht viel miteinander zu tun, oder?$-$
+Mike$ich glub nicht$-$
+Mike$*glaub$-$
+Blaise$Mike war nicht sehr prominent, deshalb überrascht es mich nicht, dass du dich nicht an ihn erinnerst.$-$
+Angie$Aber nur, weil er schüchtern war! Er war seeeeeehr gut in sport.$-$
+Angie$Wenn er weniger schüchtern gewesen wäre, wäre er wahrscheinlich sehr beliebt gewesen (￢ω￢ )$-$
+AmyInput$Ihr drei scheint euch gut zu kennen. Wart ihr schon in der Schule befreundet?$-$
+Amy$Ich kann mich nicht erinnern, sie zusammen gesehen zu haben.$-$
+Blaise$Mehr oder weniger. Es war Angies Schuld.$-$
+Angie$Tu nicht so, als wäre das etwas schlechtes gewesen (＃＞＜)$-$
+Angie$Ich hatte bemerkt, dass Blaise und Mike immer alleine abhingen, und habe mich mit ihnen angefreundet!$-$
+Angie$Wir waren dann oft zusammen, und unsere freundschaft hielt über die schulzeit hinaus an (' ω `♡)$-$
+Mike$ich war nich gut drin freunde zu machen$-$
+Blaise$Ich wäre wahrscheinlich auch allein zurechtgekommen. Aber... es war trotzdem schön, Leute zu haben, mit denen ich meine Gedanken teilen konnte.$-$
+Angie$Aww (≧ω≦) ♡$-$
+Blaise$Es war übrigens auch Angies Idee, diesen Gruppenchat für das Klassentreffen einzurichten. Mike und ich wurden schlussendlich hineingezogen. Angie neigt dazu, ziemlich unorganisiert zu sein, also dachte ich mir, dass sie mich brauchen würde, um den administrativen Teil zu übernehmen. Und ich denke, dass es auch keine schlechte Idee wäre, Kontakte wieder aufzufrischen, für den Fall, dass sie sich später als nützlich erweisen sollten.$-$	
+Mike$ich mach mit weil ich gehofft hab dass ich so meine klassenkameradedn richtig kennenlernen könnte da ich das während meiner schulzeitverpasst hab$-$
+Angie$Ich habe bemerkt, dass du in letzter zeit etwas kontaktfreudiger geworden bist, Mike. Ich finde das großartig! (*°▽°*)$-$
+AmyInput$Was habt ihr denn so gemacht, nachdem ihr die Schule verlassen habt?$-$
+Angie$Ich fang an! (^_<)〜☆$-$
+Angie$Das kommt vielleicht etwas überraschend, aber ich arbeite in der softwareentwicklung!$-$	
+Amy$Das war tatsächlich eine Überraschung.$-$	
+Amy$Angie war sehr aufgeschlossen gegenüber jedem, der ihr zuhörte. Aber ich hatte noch nie was davon gehört, dass sie sich für Technik interessiert.$-$	
+Blaise$Ich persönlich denke, dass es damals keinen Grund dafür gab, deine Liebe zum Programmieren geheim zu halten, Angie.$-$	
+Mike$ja es war ja nichts schlechtrs$-$	
+Angie$Naja, ich dachte nur, dass es mich komisch vorkommen lässt oder so.$-$	
+Angie$Tee hee (//ω//)$-$	
+Angie$Tja, mein damaliger verdacht bestätigt sich leider manchmal.$-$	
+Angie$Es gibt einige kollegen und kunden in meiner firma, die abfällige bemerkungen machen. (￢_￢;)$-$
+Mike$die sind einfach nur blödköpfe vergfiss sie$-$	
+Blaise$Genau, wir wissen, wie gut du in deinem Job bist.$-$	
+Angie$Danke, ihr beiden (☞:3)☞$-$	
+Angie$Ich bin froh, dass ich damals wenigstens mit euch beiden über mein hobby reden konnte.$-$	
+Angie$Das war wahrscheinlich der grund, warum wir uns überhaupt so nahe gekommen sind!$-$	
+Angie$ Kannst du dir meine überraschung vorstellen, Amy, als Blaise aus heiterem himmel auf mich zukam und mir sagte, dass er weiß, dass ich aufs programmieren stehe?$-$	
+Angie$Ich dachte echt, dass er mich erpressen wollte, Σ(°△°|||)$-$
+Blaise$...$-$
+Angie$Es hat sich herausgestellt, dass er einfach sehr schlau ist und seinen verdacht bestätigen wollte.$-$	
+Angie$Es hatte einfach keinen sinn mehr, es vor Blaise und Mike geheim zu halten.$-$
+Angie$Also habe ich ihnen einfach mein herz über all das nerdige zeug ausgeschüttet, über das ich mit niemandem sonst reden konnte σ(≧ε≦σ) ♡$-$	
+Mike$bisschen off topic aber dass emoji gibt mir sodbrennen: (☞:3)☞$-$	
+Blaise$Ja, es sieht recht merkwürdig aus.$-$	
+Angie$Ich finde es süß (☞:3)☞$-$	
+Angie$Also, du bist der nächste, Mike!$-$	
+Angie$Du wirst überrascht sein zu hören, was Mike getrieben hat, Amy!$-$	
+Angie$Obwohl, wie wäre es, wenn du zuerst rätst! (^.~)☆$-$	
+Amy$Ich kannte Mike überhaupt nicht. Also war ich mir nicht sicher, wie ich seinen aktuellen Job erraten sollte.$-$	
+Amy$Alles, was ich über ihn wusste, war, dass er in der Schule gerne Sport gemacht hat.$-$
+AmyInput$Etwas mit Sport?$-$	
+Angie$Ich wusste, dass du das raten würdest!$-$	
+Mike$es ist wahrscheinlih n etwas komiscehr sprung von sport aber ich arbeite mit tieren$-$	
+Mike$ich mochte sport in der schule aber auch biologie$-$	
+Mike$ich fühlte mich auch weniger unwohl unter tieren als unter menschen$-$	
+Mike$so hab ich schließlich zoologie studiert udn wurde tierpfleger$-$	
+AmyInput$Das ist echt cool! Du arbeitest also in einem Zoo?$-$	
+Mike$yep es macht echt spaß$-$	
+Mike$ich habe vergessen zu bedenken das ich auch im zoo mit anderen leuten zusammenarbeiten muss$-$	
+Mike$aber meine kolegen sind echt cool und dank ihnen bin ich ein bisschen sozialer geworden$-$	
+Mike$deshalb hoff ich dass ich meine klassenkameradenjetzt richtig kennenlernen kann$-$	
+Mike$jetzt hab ich wahrscheinlich zu viel geschrieben. du bist dran blaise$-$	
+Mike$blaises geschichte ist wahrscheinlich interessanter$-$	
+Blaise$Ich sehe, meine Zeit ist gekommen.$-$	
+Blaise$Ich wusste schon früh, dass ich Jura studieren und praktizieren wollte. Ich dachte, das wäre eine angemessene Herausforderung und ein erfüllender Beruf. Nach einigen Recherchen kam ich zu dem Schluss, dass die Yale University in den Vereinigten Staaten von Amerika eine der besten Optionen für mich ist. Sie hat eine relativ niedrige Zulassungsquote, aber ich war nicht allzu besorgt. Zurzeit bin ich in meinem letzten Semester. Hast du noch irgendwelche Fragen?$-$		
+AmyInput$Das klingt toll! Wie ist es in Amerika?$-$		
+Blaise$Nun, man kann das schwer verallgemeinern, da es ein sehr großes Land ist. Aber was mich beeindruckt hat, war der Kontrast zwischen den großen Städten und den eher ländlichen Gebieten Amerikas. Ich verbringe auch sehr gerne Zeit in den Parks. Sie sind sehr angenehm.$-$		
+Angie$Vergessen vorhin zu fragen, aber hast du dort freunde gefunden? Ich würde sie gerne kennen lernen! ('- ω -`)$-$
+Mike$er antwortet nich$pau_3sec$		
+Mike$das ist wahrscheinlich eine antwort für sich$-$
+Angie$Blaise hatte immer schwierigkeiten damit, freunde zu finden, weil er sich so abweisend verhielt ┐( ' д ` )┌$-$
+Blaise$Hmpf. Ich brauche keine Freunde in Amerika. Ich kann einfach online mit euch rumhängen.$-$		
+Angie$Aww, das ist süß (///￣ ￣///)$-$		
+Mike$weist amy, blaise mag sehr unfreundlich und pedantisch wirken$-$		
+Mike$aber er ist eigentlich sehr nett$-$		
+Mike$er hat mir immer geholfen wenn ich hilfe brauchte nich nur beim lernen$-$		
+Angie$Ja, er ist ein bisschen ein tsundere. ('｡- ω -｡`)$-$		
+AmyInput$Was ist ein Tsundere?$-$		
+Angie$Du weißt schon, eine person, die kalt oder barsch erscheint, aber warm und freundlich wird, wenn man sie kennenlernt ( ~*-*)~$-$		
+Mike$die einen da die sagen "its not like i like you or anything... b-baka"$-$		
+Blaise$Ich würde das nie sagen.$-$
+Angie$Natürlich (￢ω￢ )$-$
+Amy$Ich konnte diesem Gespräch überhaupt nicht folgen. Ihre Antworten verwirrten mich nur noch mehr.$-$
+Angie$Egal, wie siehts bei dir aus, Amy? Was machst du so? |･ω･)$-$		
+AmyInput$Nichts so Interessantes wie ihr drei.$-$		
+AmyInput$Ich arbeite in einem Supermarkt, bis ich mir sicher bin, was ich langfristig machen will.$-$		
+Angie$Keine sorge, ich bin mir sicher, du wirst es bald rauskriegen!$-$		
+Mike$yea, ich habe etwas zeit gebraucht um rauszfinden, dass ich tierpfleger werden wil$-$		
+Mike$keine eile$-$	
+Blaise$Ich würde allerdings auch nicht empfehlen, zu viel Zeit zu verschwenden.$-$	
+Angie$(￢ ￢)$-$	
+Blaise$... Aber ich schätze, es ist nichts falsch daran, sich Zeit zu nehmen, um sicherzustellen, dass man den richtigen Karriereweg für sich wählt.$-$	
+Angie$(￣▽￣)b$-$	
+Amy$Sie waren ein etwas seltsamer Haufen. Aber insgesamt schienen sie alle sehr nett zu sein.$-$	
+Amy$Naja, Blaise schien immer noch ein bisschen hochnäsig, aber ich verlasse mich einfach auf Angies und Mikes Einschätzung von ihm.$-$	
+Amy$Die beiden kannten ihn viel länger als ich.$-$	
+Amy$Mein Magen knurrt.$sfx_magen_knurren$
+Amy$Stimmt, ich hatte immer noch nichts gegessen, seit ich nach Hause gekommen bin.$-$	
+AmyInput$Ich gehe kurz AFK, ich werde mir etwas zu essen machen. Wir sehen uns gleich!$-$	
+Angie$( ' ω ` )ノﾞ$-$	
+Mike$ich sollt mir auch was holen brb$stop_it$
+break$-$-$
+black$Eine Software-Entwicklerin, ein Zoowärter und ein Anwalt. Sie alle haben sehr spannende Karrierewege eingeschlagen.$-$
+black$Ich kann nicht anders, als mich schlecht über meine eigene fehlende Karriere zu fühlen.$-$	
+black$Ich habe keine Ahnung vom Programmieren und es kommt mir sowieso zu schwer vor, also wäre das wohl nichts für mich.$-$	
+black$Ich bin allergisch gegen Tierhaare, also käme Zoowärterin wahrscheinlich nicht in Frage.$-$	
+black$Ich bin auch nicht schlau genug, um Anwältin zu werden.$-$	
+black$Puh...$-$	
+black$Was kann ich überhaupt? Regale einräumen?$-$	
+black$ Na ja, ich werde es schon noch rausfinden. Vielleicht können sie mir später ein paar Tipps geben.$-$	
+black$Fürs Erste werde ich mir etwas übrig gebliebenes Risotto aufwärmen. Das sollte meine Laune verbessern.$sfx_dish_clank$
+black$Wie spät ist es jetzt?$amb_microwave$
+black$Hm... 3 Uhr morgens.$-$
+black$Es ist noch etwas Zeit, bis Liv aufwacht. Ich frage mich, wie gut sie sich an Angie, Blaise und Mike erinnert.$-$	
+black$ Jetzt, wo ich darüber nachdenke, wieso sind die drei noch wach?$-$	
+black$Vielleicht sollte ich sie fragen, wenn ich wieder am Laptop bin.$microwave_off$
+unbreak$-$-$
+Amy$Ich bin zurück mit Essen und neuer Motivation.$mus_less_chill$
+Amy$Hm? Sind meine Kopfhörer kaputt? Die Musik klingt komisch.$-$	
+Amy$Naja, ich hatte sowieso vor, mir bald neue zu kaufen.$-$	
+Amy$Die Musik ist noch anhörbar. Sie klingt nur ein bisschen verzerrt. Das wird schon gehen.$-$	
+Amy$Mal sehen, worüber sie gechattet haben, während ich weg war.$-$	
+Amy$Huh, anscheinend nichts.$scn_chat$
+Amy$Sie haben wahrscheinlich ihren eigenen Gruppenchat.$-$	
+Amy$Richtig, ich wollte sie fragen, warum sie noch wach sind.$-$	
+AmyInput$Ich bin zurück!$-$	
+Angie$Willkommen zurück! ヾ(*'▽'*)$-$	
+Mike$wb$-$	
+Blaise$Nochmals hallo.$-$	
+AmyInput$Ich habe mich gefragt: Wie kommt es, dass ihr alle noch wach seid?$-$	
+Blaise$Es ist noch früh am Abend hier in Amerika. In meinem Fall ist es also ein Zeitzonenunterschied.$-$	
+Angie$Ich habe morgen frei, und normalerweise bleibe ich gerne lange auf, wenn ich am nächsten tag nicht früh aufstehen muss!$-$	
+Angie$Ich habe vielleicht auch zu viel kaffee getrunken und kann nicht schlafen (￣▽￣*)ゞ$-$	
+Mike$hatte späte schicht im poo bin grad dabei zum nachtpfleger zu wechseln$-$
+Mike$*zoo$-$	
+Blaise$Das ist ein peinlicher Tippfehler. Deshalb sage ich immer, du sollst deine Nachrichten noch einmal kontrollieren, bevor du sie abschickst.$-$	
+Mike$hab mit paar eulen rumgehangen. sind cool.$sfx_owl$
+Mike$bin aber kein fan von skorpionen. die sind nachts aktiv und wuseln so rum.$-$	
+Angie$Skorpione (>m<)$-$	
+AmyInput$Ich arbeite ebenfalls in der Spätschicht und bleibe noch etwas wach, wenn ich nach Hause komme.$-$	
+Amy$Der Hauptgrund, warum ich nach meiner Nachtschicht aufbleibe, ist, damit ich vor dem Einschlafen noch mit Liv chatten kann.$-$	
+Amy$Liv steht sehr früh auf, also ist das normalerweise die beste Zeit, um sie online zu erreichen.	$-$
+Amy$Sie hat wahrscheinlich auch die Einladung von Blaise bekommen. Ich nehme an, sie wird auch dazukommen, sobald sie wach ist.$-$	
+Angie$Hey, ich habe eine Idee! ヽ(*・ω・)ﾉ$-$
+Angie$Wie wäre es, wenn jeder von uns ein peinliches Geheimnis erzählt? So können wir uns besser kennen lernen!$-$	
+Blaise$Das klingt nach einer dummen Idee.$-$	
+Mike$ich weiß nich$-$	
+AmyInput$Ich glaube nicht, dass mir etwas Interessantes einfallen würde.$-$	
+Amy$Und ich hatte auch keine Lust, Geheimnisse mit Halbfremden zu teilen.$-$	
+Amy$Selbst wenn es ehemalige Klassenkameraden sind.$-$	
+Angie$(╥﹏╥)$-$
+Mike$eh ich schätz es is ok$-$	
+Mike$bitte nich weinen$-$	
+Blaise$... Na gut. Wenn Mike meint, dass es in Ordnung ist, dann werde ich wohl mitspielen.$-$	
+Angie$(*≧ω≦*)$-$	
+Angie$Keine Sorge, Amy, du kannst einfach passen oder uns etwas Allgemeines über dich erzählen.$-$	
+Angie$Wir kennen dich sowieso nicht so gut, also ist das völlig in Ordnung (つ≧▽≦)つ$-$
+AmyInput$Alles klar.$-$	
+Amy$Ich denke, ich werde ihnen einfach etwas Wahlloses über mich erzählen, statt ein wirkliches Geheimnis.$-$
+Angie$Okay, ich fange an, da ich es vorgeschlagen habe (￣▽￣)ノ$-$
+Angie$Dass ich gerne programmiere, wisst ihr ja schon, das ist also kein großes geheimnis mehr.$-$	
+Angie$Stattdessen erzähle ich euch etwas anderes.$-$
+Angie$Das ist wahrscheinlich nichts ungewöhnliches, aber ich bin manchmal eifersüchtig auf andere Leute.$-$
+Angie$Ich schätze, ich mag das nicht so an mir, weil ich keine schlechten gedanken über andere haben möchte (・_・;)$-$	
+Angie$Das passiert vor allem dann, wenn andere offen über dinge reden, für die sie sich besonders begeistern.$-$
+Angie$Wahrscheinlich weil ich nie offen über mein hobby sprechen konnte (｡T ω T｡)$-$	
+Mike$danke fürs teilen$-$	
+AmyInput$Keine Sorge, es ist normal, manchmal eifersüchtig zu sein.$-$	
+Blaise$Ich gebe dir recht. Es kommt darauf an, wie du mit diesen Gefühlen umgehst.$-$	
+Mike$jz du Blaise. ich denk noch nach$-$	
+Blaise$Also gut. Ich werde den schlimmsten Tag meines Lebens mit euch teilen...$-$	
+Mike$dramatische pause$-$	
+Blaise$Ich hatte mal eine Drei in der Grundschule.$-$	
+Angie$...$-$
+Mike$...$-$
+Mike$Ich schätz wenn es von blaise kommt ist das ein großes geständnis$-$	
+Blaise$Ihr werdet meinen Schmerz nie verstehen.$-$	
+Mike$egal, ich bin nächster$-$
+Mike$blaise und angie wissen es schon aber es könnt ne überrashcung für dich sein amy$-$	
+Mike$als ich in der schule war hab ich Sport gemacht und drauf geachtet was ich esse$-$	
+Mike$aber seit dem abschluss hab ich sport aufgegeben und achte nicht mehr so auf gesundes essen$-$	
+Mike$so hab ich zugenommen$-$	
+Mike$das heißt ich seh nich mehr so aus wie früher$-$
+Mike$der job als zoowärter is körperlich anstrengend aber nicht genug um meine liebe zum essen auszugleichen$-$	
+Blaise$Ich glaube nicht, dass das wirklich ein Problem ist, solange es sich nicht gravierend auf deine Gesundheit auswirkt.$-$	
+Angie$Ja, und es gibt definitiv frauen, die auf mollige, aber trotzdem muskulöse männer stehen (b ᵔ▽ᵔ)b$-$	
+Angie$Jedenfalls, du bist dran, Amy!$-$
+AmyInput$Mike, der im Zoo arbeitet, hat mich an etwas erinnert. Es ist allerdings kein großes Geheimnis.$-$	
+AmyInput$Ich könnte nie im Zoo arbeiten, weil ich eine Tierhaarallergie habe.$-$
+AmyInput$Aber obendrein bin ich auch noch allergisch gegen Leguane.$sfx_sneeze$	
+Angie$Wie findet man sowas überhaupt raus? ∑(O_O;)$-$	
+AmyInput$Es ist eine lange Geschichte.$-$	
+Angie$Ich würde sie gerne hören, wenn wir uns zum klassentreffen persönlich sehen! (O∀O)$-$
+Angie$Okay, ich bin wieder dran!$-$	
+Angie$Hm... Ich glaube, ich kann euch so etwas wie eine fortsetzung meines letzten geständnisses erzählen.$-$	
+Angie$Es gab ein mal, da war ich besonders eifersüchtig.$-$ 	
+Angie$Es war jemand, die ich kannte und die gerne sprintete.$sfx_running$
+Angie$Sie war wirklich leidenschaftlich dabei und es war meistens das thema unserer gespräche.$-$	
+Angie$Meine Versuche, das thema zu wechseln, waren meist erfolglos (￣_￣)...$-$	
+Angie$Sie war wirklich gut im laufen und wär bestimmt eine erfolgreiche sportlerin geworden.$-$	
+Angie$Es war ein bisschen schmerzhaft, ihr zuzuhören, wie sie offen über ihre hobbies sprach, während ich nicht über meine eigenen reden konnte.$-$
+Angie$Aber ich täuschte jedes mal ein lächeln vor, wenn wir miteinander sprachen, und versuchte, mich davon nicht beirren zu lassen.$-$	
+Angie$Schließlich musste ich einen weg finden, um dampf abzulassen, damit ich nicht explodierte.$-$	
+Angie$Also habe ich etwas getan, worauf ich definitiv nicht stolz bin.$-$	
+Angie$Ich habe reißzwecken in ihre laufschuhe gesteckt.$-$	
+Angie$(・_・;)$-$	
+Amy$Oh.$-$	
+Amy$Das war unerwartet. Ich habe Angie immer als eine echt nette Person eingeschätzt.$-$	
+Amy$Ich hätte nie erwartet, dass sie so etwas machen würde. Aber ich schätze, jeder hat seine dunkle Seite.$-$	
+Amy$Und es schien, als würde Angie es bereuen. Ich schätze, man macht dumme Sachen, wenn man jünger ist.$-$	
+Blaise$Ich nehme an, ich bin jetzt dran. Dieses Mal erzähle ich euch etwas, das wahrscheinlich interessanter ist.$-$	
+Angie$Vergiss nicht, deine nachrichten aufzuteilen, damit sie leichter zu lesen sind (￣ω￣;)$-$	
+Blaise$Also gut. Ich werde es versuchen.$-$	
+Blaise$Als ich noch sehr jung war, kannte ich jemanden, der mir mehr als alle anderen auf die Nerven ging.$-$	
+Blaise$Er war faul, hatte schlechte Noten, war vulgär und insgesamt ein unangenehmer Mensch. Und er ist mir immer gefolgt und hat versucht, sich mit mir anzufreunden, egal wie sehr ich ihn abgelehnt habe.$-$	
+Blaise$Bis etwas auf einem Schulausflug geschah. Wir mussten in den Bergen wandern, und da ich nicht sehr fit war, hing ich zurück. Und da der Junge zu meinen Ungunsten mit mir abhängen wollte, hing er auch zurück.$-$	
+Blaise$Er redete leidenschaftlich auf mich ein und erzählte mir von irgendetwas Unwichtigem. Ich weiß nicht mehr, worüber genau.$-$	
+Blaise$Nun, er war so abgelenkt, dass er ausrutschte und über die Kante stolperte. Es gelang ihm, sich an einer Wurzel festzuhalten, die aus der Felswand ragte.$sfx_slip$
+Blaise$Anscheinend war er aufgrund des Schocks nicht in der Lage, nach Hilfe zu schreien. Alles, was er tun konnte, war, verzweifelt zu keuchen. Die Lehrerin und die anderen Kinder vor uns hatten nicht bemerkt, was passiert war, und liefen weiter.$-$	
+Blaise$Es gab mehrere Dinge, die ich in diesem Moment hätte tun können. Ich hätte seine Hand ergreifen können oder ich hätte die Lehrerin rufen können.$-$
+Blaise$Aber ich habe nichts getan. Alles, woran ich in diesem Moment denken konnte, war, wie wenig verloren wäre, wenn der Junge verschwinden würde.$-$	
+Blaise$Also lief ich weiter und tat so, als ob ich es nicht bemerkt hätte.$-$	
+Blaise$Der Junge wurde kurze Zeit später am Fuße des Berges tot aufgefunden. Die Lehrerin trug die Verantwortung, da sie auf uns aufpassen musste. Aber ich wusste, dass ich schuld war. Ich erinnere mich noch an sein Gesicht, als er um Hilfe rief, ohne einen einzigen Ton herauszubringen, Tränen in seinen Augen.$-$
+Angie$Das ist heftig ( : o . o : )$-$	
+Mike$besser als die notengeschichte$-$	
+Amy$War das wirklich etwas, das er offen mit mir teilen sollte? Das war etwas sehr ernstes.$-$	
+Amy$Ich schätze, es war nicht so, als hätte Blaise ihn aktiv getötet. Und Blaise war noch jung. Aber das ist trotzdem eine sehr extreme Geschichte.$-$	
+Mike$ok dann bin ich wieder dran$-$	
+Mike$mein geheimnis ha tmit der arbeit zu tun also erzählt es bitte niemandem. will nich gefeuert werden$-$	
+AmyEingabe$Okay.$-$	
+Amy$Ich wusste sowieso nicht, wo er arbeitete.$-$	
+Amy$Ich frage mich allerdings, ob er mir Geheimnisse erzählen sollte, die ihn seinen Job kosten könnten.$-$	
+Mike$ich bleib oft länger im zoo wenn die meisten schon weg sind$-$	
+Mike$die die die nachtschicht haben merken das normalerweise nich$-$
+Amy$Das klingt soweit relativ harmlos.$-$
+Mike$ich ließ oft das abendessen aus wenn ich im Zoo war weshalbich nachts hunger bekam$sfx_magen_rumble$
+Mike$so fingen irgendwann die penetranten gedanken an$-$	
+Mike$ich fing an mich zu fragen wie die tiere im zoo wohl schmecken würdn$-$	
+Mike$wusstest du dass roben zwar fettig aussehen aber ihr fleisch weniger als 2% fett hat$-$	
+Mike$auch viel eiweiß$-$	
+Mike$es gibt auch ureinwohner die papageien essen$-$	
+Mike$hab auch von leuten irgendwo gehört die tiger essen$-$	
+Mike$jedenfalls sind die gedanken beunruhigend$-$	
+Mike$ich sehe die tiere im zoo als freunde und familie$-$-$	
+Mike$und der gedanke freunde und familie zu essen beunruhigt mich$-$	
+Amy$...$-$
+Amy$Das hat mich irgendwie verstört$-$
+Amy$Je länger diese Unterhaltung dauert, desto unsympathischer scheinen alle zu werden.$-$	
+Amy$Und desto unangenehmer fühle ich mich.$-$	
+Amy$Aber ich schätze, das passiert, wenn Leute anfangen, ihre dunkelsten Geheimnisse zu teilen.$-$
+Amy$Hm... Es ist schon 4 Uhr morgens. Ich sollte duschen gehen.	$-$
+AmyInput$Ich bin kurz weg.$-$	
+Angie$In Ordnung, bis später! (≧ω≦) ♡$-$
+break$-$stop_less$
+black$Je mehr ich darüber nachdenke, desto mehr frage ich mich, ob das, was sie geschrieben haben, wahr ist.$amb_shower$
+black$Angie hat jemanden gemobbt und körperlich verletzt, Blaise hat jemanden sterben lassen und Mike denkt darüber nach, die Tiere zu essen, mit denen er arbeitet.$-$	
+black$Das waren ziemlich schockierende Geschichten.$-$	
+black$Aber würden sie sie mit einer praktisch fremden Person wie mir teilen?$-$	
+black$Wollten sie mir einen Streich spielen?$-$	
+unbreak$-$shower_off$
+Amy$Puh, das war gut.$-$
+Amy$Okay... Soll ich es wagen, den Chat wieder zu öffnen?$-$	
+Amy$Ich vermute, dass die Stimmung nach diesen Beichten ziemlich mies geworden ist.$-$	
+Amy$Scheint so, als hätte niemand neue Nachrichten geschrieben, seit ich gegangen bin.$-$	
+Angie$Hey, Amy ist wieder da! ヾ(*'▽'*)$-$	
+Mike$wb$-$	
+Blaise$Nochmals hallo.$-$	
+Amy$Huh? Woher wissen sie, dass ich zurück bin?$-$	
+Amy$FullChat hat keine Online-, Abwesenheits- oder Offline-Anzeige.$-$	
+Angie$Also, jetzt, wo Amy wieder da ist, wie wär's, wenn wir weitermachen? ☆ﾐ(o*･ω･)ﾉ$-$
+Blaise$ Ich melde mich freiwillig als Nächster. Ich würde gerne über die Folgen dessen berichten, was ich auf dem Schultrip erlebt habe.$-$	
+Blaise$Ich nehme an, ihr seid mit dem Konzept der natürlichen Selektion vertraut. Der Begriff wurde von Charles Darwin popularisiert. Der Begriff natürliche Selektion wird auch gerne spöttisch verwendet, wenn sich jemand bei der Ausführung einer unintelligenten Handlung verletzt. Manchmal führen besagte unintelligente Handlungen sogar zum Tod.$-$	
+Blaise$Der Tod des Jungen, über den ich gesprochen habe, könnte in diese Kategorie fallen. Das hat mich zum Nachdenken gebracht. Was wäre, wenn man natürliche Selektion erzwingen würde, anstatt sie dem Zufall zu überlassen? Das würde sie natürlich weniger "natürlich" machen. Doch wenn ich das tun wollte, würde ich die Betroffenen nicht zufällig auswählen.	$-$	
+Blaise$Ich würde mich selbst als Maßstab nehmen und diejenigen herausfiltern, die mir weit unterlegen sind. Ich würde mit großer Wahrscheinlichkeit die Fähigkeiten eines Menschen gut einschätzen können und wissen, ob sein Leben gerechtfertigt ist.	$-$
+Blaise$Also habe ich es probiert. Und war recht erfolgreich.$-$	
+Blaise$Ich habe die Leute studiert, mir eine Herausforderung ausgedacht und sie vor den Konsequenzen gewarnt, die sie erwarten würden, wenn sie versagen sollten. Und ich habe mir recht clevere Konsequenzen ausgedacht, wenn ich das so sagen darf.$-$	
+Blaise$Schwimmer, die es nicht schafften, ertranken mit gefesselten Armen und Füßen. Sängern wurden die Stimmbänder herausgerissen. Köche wurden lebendig gekocht. Obwohl die Herausforderungen, zumindest meiner Meinung nach, recht einfach waren, haben nur wenige überlebt. Diejenigen, die überlebt haben, sind zu neuen Höhen aufgestiegen.$-$	
+Blaise$Kennst du Buremi, den Bowler, der dafür berühmt wurde, dass er in diesem Jahr keinen einzigen Strike versäumt hat? Es gab auch einiges an Aufregung, weil ihm aus heiterem Himmel zwei Finger fehlten. Das hast du mir zu verdanken.$-$	
+Blaise$ Für jeden verpassten Strike wurde ihm ein Finger mit einer Bowlingkugel zu Brei geschlagen. Leider hat er zwei verpasst. Den ersten, weil er meiner Drohung nicht geglaubt hatte.$-$
+Blaise$Den zweiten, weil er zu viel Angst davor hatte, was passieren würde, wenn er das nächste Mal verfehlen würde. Mit Bowling aufzuhören, kam natürlich nicht in Frage. Er würde mehr als nur seine Finger verlieren, wenn er das täte.$-$
+Blaise$Smash, smash, smash.$amb_blaise_horror$	
+Blaise$Die Verwendung einer Bowlingkugel war etwas ineffizient, aber sie brachte die Botschaft gut rüber.$-$	
+Mike$nice$blaise_horror_off$
+Angie$Ein bisschen brutal, aber wenns funktioniert, funktionierts ┐(︶▽︶)┌$-$	
+Amy$Was zum...$-$	
+Amy$Was für ein kranker Scherz ist das?$-$	
+Angie$Ich bin die nächste! (･ω<)☆$-$	
+Angie$Es hat etwas mit dem mädchen zu tun, von dem ich erzählt hatte, das gerne gerannt ist.$-$	
+Angie$ Naja... Die reißzwecken in ihre schuhe zu stecken, war nicht das einzige, was ich getan habe (⌒_⌒;)$-$
+Angie$Egal, was ich tat, sie wollte das laufen nicht aufgeben. Und ich habe alles versucht (>.<")$-$	
+Angie$Vor einem wichtigen rennen habe ich ihr abführmittel ins essen gemischt.$-$
+Angie$Ich verbreitete gemeine gerüchte über sie (z. B. wie seltsam sie beim training roch, weil sie so sehr schwitzte).$-$	
+Angie$Endlich fand ich eine dauerhafte lösung für dieses problem.$-$	
+Angie$Ich traf sie in einem abgelegenen teil des schulgebäudes, wo uns niemand stören würde.$-$	
+Angie$Und stieß sie die treppe hinunter.$sfx_fall_stairs$
+Angie$Sie war nicht allzu schwer verletzt. Sie hatte sich nur den knöchel verstaucht.$-$	
+Angie$Glücklicherweise hatte ich im voraus einen vorschlaghammer vorbereitet ('- ω -`)$-$	
+Angie$Er war ziemlich schwer, aber ich schaffte es, ihn zu heben.$-$
+Angie$Und zerschmetterte ihre beine. Ich schlug mit dem hammer auf sie ein, immer und immer wieder.$amb_amy_horror$
+Angie$Ich kann das knirschen, gemischt mit ihren schreien, immer noch hören (☞:3)☞$-$	
+Angie$Ich liebte ihren gesichtsausdruck, als ihr klar wurde, dass sie nie wieder laufen können würde ( 〃▽〃)$amy_horror_off$
+Angie$Sie hat natürlich versucht, mich zu beschuldigen, aber niemand wollte ihr glauben.$-$	
+Angie$Es gab keine beweise, und ich war bei den lehrern und schülern sehr beliebt (*^.^*)$-$
+Angie$So wurde sie als lügnerin gebrandmarkt, die eifersüchtig auf mich war und wahrscheinlich nur einen unfall hatte und versuchte, mich fälschlich zu beschuldigen.$-$	
+Angie$Das war der moment, in dem ich auf den geschmack kam, die träume anderer leute zu zerstören.$-$	
+Angie$Gleichermaßen ekstatisch fühlte ich mich, als ich einem komponisten das trommelfell durchstach und einem model die haut abzog (♡ω♡)$-$	
+Angie$Hah, ich werde nostalgisch (≧ω≦) ♡$-$	
+Blaise$Ich kann das gut nachempfinden.$-$	
+Mike$echt so$-$
+Amy$Das war mehr als nur ein schlechter Scherz. Das war krank.$-$	
+Mike$ok, ich erzähl auch ne geschichte$-$
+Mike$im zoo gab es nen penguin dem ich sehr nah war$sfx_penguin$
+Mike$hing regelmäßig mit ihm rum spielte viel mit ihm. war echt süß$-$
+Mike$war wahrscheinlich mein engster freund abgesehen von angie udn blaise$-$	
+Mike$er schien mich auch echt zu mögen$-$	
+Mike$keiner der zoowärter stand ihm so nahe wie ich$-$	
+Mike$wenn ich sein gehege betrat lief er sofort zu mir hin$-$	
+Mike$er war auch immer traurig wenn ich gehen musste$-$	
+Mike$wär sehr traurig gewesen wenn dem pinguin etwas zugestoßen wäre$-$	
+Mike$eine nacht blieb ich im pinguingehhege. er hatte mich überredet bei ihm zu schlafen$-$
+Mike$ich sah ihm zu wie er friedlich schlief als der hunger kam$-$	
+Mike$...$-$
+Mike$ich habs getan$-$	
+Mike$ich tötete ihn und aß ihn$amb_mike_horror$
+Mike$auf der stelle, roh$-$	
+Mike$ich weinte$-$	
+Mike$aber er hat so gut geschmeckt$-$	
+Mike$dann ging ich zu nem tapir über. auch einer meiner besten freunde$-$	
+Mike$dann ein tigerbaby bei dessen geburt ich selbst geholfen hatte$-$	
+Mike$ich aß sie alle und weinte$-$	
+Mike$aber je trauriger ihr tod war, desto besser schmeckten sie$-$
+Mike$schließlich ging meine neugier von den tieren auf die kollegen über$-$	
+Mike$wie traurig würde ich sein wenn ich sie essen würde?$-$	
+Mike$wie lecker würden sie sein?$-$	
+Angie$(=^･ω･^=)$mike_horror_off$
+Amy$Okay, das ist verrückt.$-$	
+Amy$Völlig verrückt.$-$	
+Amy$Sie haben alle eine verstörende Fantasie. Und ich will nichts damit zu tun haben.$-$	
+Amy$Und was ist mit meinen Kopfhörern los? Ich höre ständig diese komischen Geräusche.$-$	
+Blaise$Oh richtig, mir fällt gerade ein. Amy, war das deine Adresse?$-$	
+location$52.479748, 62.185778$-$
+Amy$Was zum...$-$
+AmyInput$Warum hast du das?$-$	
+Blaise$Ich habe die Adressen von allen recherchiert, um einen guten Treffpunkt für das Treffen zu finden, gegen den die meisten Leute nichts einzuwenden hätten.$-$	
+Mike$wie wärs wenn wir amy besuchen jetzt wo wir freunde sind$-$	
+Angie$Das klingt nach einer tollen Idee! (/ =ω=)/$-$	
+Blaise$Ich bin ein bisschen weit weg, da ich in Amerika bin. Es könnte ein paar Minuten dauern.$-$	
+Amy$Okay, ich habe genug.$-$	
+Amy$Die machen mir echt Angst.$-$	
+Amy$Es gibt keinen Grund, weiter mit ihnen zu reden, solange keine anderen Klassenkameraden dem Chat beigetreten sind.$-$	
+Amy$Vielleicht können wir einen neuen Gruppenchat ohne diese drei einrichten.$stop_not$	
+Amy$Hm? Eine Nachricht von Liv?$sfx_message_received$
+Amy$Ich schätze, sie ist schon wach.$-$	
+AmyInput$-?$scn_chat_liv$
+AmyInput$Hallo Liv! Hast du auch die Gruppenchat-Einladung von Blaise erhalten?$-$
+AmyInput$Sie planen ein Klassentreffen. Aber sie sind echt unheimlich.$-$	
+Liv$Eine Einladung? Kann nicht behaupten, dass ich eine bekommen habe.$-$	
+Amy$Hatte Blaise nicht gesagt, dass er eine Einladung an alle unsere ehemaligen Klassenkameraden geschickt hat?$-$	
+Amy$Das ist seltsam.$-$	
+Liv$Aber hey, das erinnert mich an eine Urban Legend, die ich kürzlich gelesen habe.$-$	
+Liv$Sie handelt von irgendwelchen gruseligen Gruppenchat-Nachrichten. Ich schicke dir mal einen Link.$-$
+Amy$Da fängt sie wieder mit diesen urbanen Legenden und okkulten Geschichten an.$-$	
+Amy$Sie kann wirklich nicht genug von ihnen bekommen.$-$	
+Liv$https://twitter.com/RocRacGames $-$
+Amy$Ich bin nicht gerade in der Stimmung für Gruselgeschichten, aber ich kann Liv diesen Gefallen tun.$-$	
+occult$-$-$
+Amy$...$sfx_message_received$
+Amy$Jemand hat eine Nachricht in den Gruppenchat geschickt.$-$		
+Angie$-$kbmehr$
+Angie$Wir sind da!$-$
+Mike$Wir sind da!$-$	
+Blaise$Wir sind da!$-$	
+-$-$scn_the_end$

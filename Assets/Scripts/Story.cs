@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using TMPro;
-//using Steamworks;
+using Steamworks;
 
 public class Story : MonoBehaviour {
 	
@@ -25,7 +25,7 @@ public class Story : MonoBehaviour {
 	[SerializeField] private GameObject _TypedText;
 	[SerializeField] private GameObject _inputObject;
 	[SerializeField] private GameObject _chatapp;
-	[SerializeField] private GameObject _mail;
+	[SerializeField] private GameObject[] _mail;
 	[SerializeField] private GameObject _desktop;
 	[SerializeField] private GameObject _occult;
 	[SerializeField] private GameObject _sfx_fullchat;
@@ -37,7 +37,7 @@ public class Story : MonoBehaviour {
 	[SerializeField] private GameObject _mus_not_chill;
 	[SerializeField] private GameObject _sfx_sneeze;
 	[SerializeField] private GameObject _shadow_amy;
-	[SerializeField] private GameObject _occult_box;
+	[SerializeField] private GameObject[] _occult_box;
 	[SerializeField] private GameObject _locationText;
 	[SerializeField] private GameObject _locationContent;
 	[SerializeField] private GameObject _tutorial;
@@ -72,10 +72,10 @@ public class Story : MonoBehaviour {
 	}
 	
 	void Start() {
-		//if(SteamManager.Initialized) {
-		//string name = SteamFriends.GetPersonaName();
-		//Debug.Log(name);
-		//}
+		if(SteamManager.Initialized) {
+			string name = SteamFriends.GetPersonaName();
+			Debug.Log(name);
+		}
         _fade = GameObject.Find("Fade").GetComponent<Fade>();
 	    _readDataList = GetComponent<ReadData>().databaseModelList;
 	    tempBox = _ChatContentBox;
@@ -183,7 +183,10 @@ public class Story : MonoBehaviour {
 		
 		if(_progressId == 20 &&  // 20
 		(Input.GetKeyDown("space")||Input.GetKeyDown(KeyCode.Return))){
-			_mail.SetActive(false);
+			_mail[0].SetActive(false);
+			_mail[1].SetActive(false);
+			_mail[2].SetActive(false);
+			
 		}
 		if(_progressId == 28 && !_enableChatapp){ // 28
 			_enableChatapp = !_enableChatapp;
@@ -298,8 +301,8 @@ public class Story : MonoBehaviour {
 	    if(data.call.Contains("microwave_off")){
 	    	StartCoroutine(GameObject.FindWithTag("amb_microwave").
 		    	GetComponent<AudioManager>().StopAudio());
-		    //SteamUserStats.SetAchievement("av_01_microwave");
-		    //SteamUserStats.StoreStats();
+		    SteamUserStats.SetAchievement("av_01_microwave");
+		    SteamUserStats.StoreStats();
 	    }
 	    if(data.call.Contains("blaise_horror_off")){
 	    	StartCoroutine(GameObject.FindWithTag("amb_blaise").
@@ -310,8 +313,8 @@ public class Story : MonoBehaviour {
 		    	GetComponent<AudioManager>().StopAudio());
 		    Instantiate(_amb_rain);
 		    Instantiate(_mus_not_chill);
-		    // SteamUserStats.SetAchievement("av_02_shower");
-		    // SteamUserStats.StoreStats();
+		    SteamUserStats.SetAchievement("av_02_shower");
+		    SteamUserStats.StoreStats();
 	    }
 	    if(data.call.Contains("amy_horror_off")){
 	    	StartCoroutine(GameObject.FindWithTag("amb_amy").
@@ -376,12 +379,13 @@ public class Story : MonoBehaviour {
 	    	_endImage.SetActive(true);
 	    	StartCoroutine(GameOver());
 	    	Instantiate(mus_chills);
-		    // SteamUserStats.SetAchievement("av_04_end");
-		    // SteamUserStats.StoreStats();
+		    SteamUserStats.SetAchievement("av_04_end");
+		    SteamUserStats.StoreStats();
 		    if(!av_03_amy){
 		    	// Du hast jeden Text selbst geschrieben.
-		    	//SteamUserStats.SetAchievement("av_03_amy");
-			    // SteamUserStats.StoreStats();
+		    	Debug.Log("av_03_amy");
+		    	SteamUserStats.SetAchievement("av_03_amy");
+			    SteamUserStats.StoreStats();
 		    }
 	    }
 	    
@@ -407,9 +411,14 @@ public class Story : MonoBehaviour {
     	}
     	
     	if(data.name.Contains("occult")){
-    		_occult_box.SetActive(true);
+    		if(GetComponent<ReadData>().langIndex == 0 || GetComponent<ReadData>().langIndex == 1){
+    			_occult_box[0].SetActive(true);
+    		}else{
+    			_occult_box[0].SetActive(true);
+    		}
     	}else {
-    		_occult_box.SetActive(false);
+    		_occult_box[0].SetActive(false);
+    		_occult_box[1].SetActive(false);
     	}
     	if(data.name.Contains("black")){	
     		_shadow_amy.SetActive(true);
@@ -455,7 +464,7 @@ public class Story : MonoBehaviour {
 		    chatTitle[1].SetActive(false);
 	    }
 	    else if(data.name.Contains("mail")){
-	    	_mail.SetActive(true);
+	    	_mail[GetComponent<ReadData>().langIndex].SetActive(true);
 	    }
 	    else if(data.name.Contains("-")) {
         
